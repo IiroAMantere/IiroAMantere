@@ -8,7 +8,7 @@ my boss has so far been very understanding and more than fair regarding me start
 
 Thank you for taking your time to read my introduction. Have a pleasant day :)
 
-#From this point on this is a practice file. :)
+# From this point on this is a practice file. :)
 
 '''
 print("hello world!")
@@ -17,7 +17,7 @@ print("hello world!")
 
 <details>
 <summary>Click to expand</summary>
-  #####This should be a collapsible section. We'll see once I save this file. 
+  ##### This should be a collapsible section. We'll see once I save this file. 
 </details>
 
 <!--
