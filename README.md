@@ -13,6 +13,13 @@ Thank you for taking your time to read my introduction. Have a pleasant day :)
 ´´´
 print ("hello world!")
 ´´´
+
+```
+print("Hello world")
+```
+
+
+
 >"Simplicity makes everything possible"
 
 <details>
