@@ -17,7 +17,7 @@ print("hello world!")
 
 <details>
 <summary>Click to expand</summary>
-  ##### This should be a collapsible section. We'll see once I save this file. 
+This should be a collapsible section. We'll see once I save this file. 
 </details>
 
 <!--
