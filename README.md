@@ -10,9 +10,9 @@ Thank you for taking your time to read my introduction. Have a pleasant day :)
 
 # From this point on this is a practice file. :)
 
-'''
+´´´
 print ("hello world!")
-'''
+´´´
 >"Simplicity makes everything possible"
 
 <details>
