@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hello reader!
+
+### Welcome to my Github profile. I'm Iiro. I study at Lahti university of applied sciences and I'm doing my best to learn. 
+I have no 
 
 <!--
 **IiroAMantere/IiroAMantere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
